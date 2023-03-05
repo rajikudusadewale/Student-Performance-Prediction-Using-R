@@ -17,6 +17,7 @@ The aim of this project is to effectively and accurately evaluate the performanc
 ### Methodology
 
 This chapter explains the architecture of an integrated frame work for evaluating student performance using R programming language.
+
 **DESIGN CONSIDRATION**
 
 The following are included in the integrated frame work for evaluating student performance 
